@@ -64,3 +64,7 @@ function addProp(dict, key, value){
 
 test(addProp({first:"Ian"}, "last", "Ostrom"), {first:"Ian", last:"Ostrom"});
 ```
+
+# Thanks
+
+Thank you to [Don Wells](https://forum.code.org/u/jdonwells) for inspiring the idea for this library.
